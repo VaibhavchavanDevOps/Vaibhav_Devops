@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 git init = to initialize the git
+git add. = to add all the files
+git commit -m "custom message"
